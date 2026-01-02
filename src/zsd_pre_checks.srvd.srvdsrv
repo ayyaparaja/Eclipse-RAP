@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service defintion of Prechecks'
+define service ZSD_PRE_CHECKS {
+  expose ZPJ_PRE_CHECKS_01;
+}
